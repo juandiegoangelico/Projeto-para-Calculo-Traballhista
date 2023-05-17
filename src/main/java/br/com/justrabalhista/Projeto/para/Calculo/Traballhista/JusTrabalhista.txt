@@ -1,0 +1,79 @@
+Passo 1
+Dê um nome para seu cálculo, digite o cargo e o nome das partes envolvidas. Você pode adicionar partes, se necessário. Abaixo, preencha a data de admissão e de demissão da parte. Ou assinale a caixa “Funcionário ainda ativo na empresa”. Abaixo, também é possível “solicitar reconhecimento de vínculo”.
+
+Passo 1.1
+Ao clicar em “Jornada de Trabalho Prevista” ou "Jornada de Trabalho Executada” uma nova janela se abre onde é possível determinar a jornada do trabalhador em carga horária específica por dias da semana e horários.
+
+Passo 2
+No “Passo 2” as remunerações do funcionário devem ser informadas, havendo a possibilidade de adicionar novos históricos salariais.
+
+Passo 3
+Em seguida, é hora de selecionar o que deseja calcular. Ao clicar em “Selecionar verbas”, uma nova janela se abre com as opções, como horas extras, férias, verbas rescisórias, adicional noturno, etc. É possível selecionar mais de uma ao mesmo tempo. O que significa que, com as mesmas informações, a JusTrabalhista vai realizar diversos cálculos distintos de forma simultânea para você.
+
+Passo 3.1
+Ao clicar em “selecionar verbas” abre-se a janela com as opções de cálculos a serem realizados.
+
+Passo 4
+Estamos quase lá. Falta só adicionar alguma informação extra que possa haver e especificar o índice utilizado como base de cálculo e a taxa de juros mensal ou anual e clicar em “calcular”.
+
+Passo 5
+Pronto! O “Passo 5” é o mais simples de todos: conferir o resultado do cálculo. Uma tarefa cansativa e maçante, que antes de JusCalc Trabalhista levava horas para ser executada, agora fica pronta em minutos.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Claro! Aqui está um roteiro em ordem do que deve ser feito para desenvolver a versão aprimorada do JusTrabalhista no IntelliJ IDEA:
+
+Configuração do ambiente:
+
+Instale o IntelliJ IDEA em seu computador, se ainda não o tiver.
+Crie um novo projeto Java no IntelliJ IDEA para o JusTrabalhista.
+
+Criação da estrutura de pacotes:
+
+Defina uma estrutura de pacotes adequada para o projeto, por exemplo: "br.com.justrabalhista".
+Crie os pacotes necessários, como "model", "views", "controllers", etc.
+
+Interface do usuário:
+
+Desenvolva as telas e componentes necessários para a interface do usuário usando JavaFX ou outra biblioteca de sua preferência.
+Implemente a lógica para interagir com os componentes da interface, como botões e campos de texto.
+
+Implementação dos passos do JusTrabalhista:
+
+Crie classes para representar os passos descritos, como "Passo1", "Passo1_1", "Passo2", etc.
+Implemente a lógica para cada passo, incluindo a coleta e validação dos dados fornecidos pelo usuário.
+
+Cálculos automáticos:
+
+Desenvolva as classes necessárias para realizar os cálculos trabalhistas com base nas informações fornecidas.
+Implemente os algoritmos para calcular férias, 13º salário, horas extras e outras verbas trabalhistas.
+
+Modelo de petição inicial:
+
+Crie um modelo de petição inicial em formato de documento ou utilize um template pré-definido.
+Preencha o modelo com os dados recalculados e gere um arquivo final para download ou exibição na interface.
+
+Integração com o banco de dados:
+
+Configure uma conexão com um banco de dados para armazenar os cálculos realizados e os dados dos trabalhadores, se necessário.
+Implemente a lógica para salvar e recuperar informações do banco de dados.
+
+Testes e depuração:
+
+Realize testes unitários para verificar a precisão dos cálculos e a funcionalidade geral do programa.
+Utilize as ferramentas de depuração do IntelliJ IDEA para identificar e corrigir possíveis erros e problemas.
+
+Melhorias de interface e usabilidade:
+
+Realize ajustes na interface do usuário para melhorar a experiência do usuário.
+Considere adicionar recursos como validação de campos, sugestões inteligentes e outras melhorias de usabilidade.
+
+Documentação e finalização:
+
+Documente o código-fonte do projeto, explicando as funcionalidades e a estrutura do programa.
+Realize uma revisão final do projeto, verificando se todas as funcionalidades estão implementadas corretamente.
+Faça os ajustes finais, se necessário, e prepare o programa para ser distribuído ou implantado.
+Lembre-se de adaptar o roteiro de acordo com suas necessidades específicas e seguir as práticas recomendadas de desenvolvimento de software. 
+
+Boa sorte com o desenvolvimento do JusTrabalhista aprimorado no IntelliJ IDEA!
